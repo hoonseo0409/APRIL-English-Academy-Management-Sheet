@@ -1,5 +1,5 @@
 # APRIL-English-Academy-Management-Sheet
-Made by Seo Hoon
+Made by Seo Hoon.
 This excel sheet is made by me when I worked in APRIL English academy. 
 At the time of my work I had to classify students who did not submit a specific homework combination or who were absent from a particular class. 
 This is because I had to ask them to take assignments or classes. 
